@@ -1,6 +1,11 @@
 def my_collect(array)
-  i = 0
+  x = 0
   collection = []
-  
+  while x < array.length
+  yield(array[])
+  x += 1
+end
+collection 
+end
   
 
